@@ -141,7 +141,7 @@ const styles = StyleSheet.create({
     alignItems: "center",
     width: "80%",
     marginLeft: "10%",
-    marginTop: windowHeight / 2.2,
+    marginTop: windowHeight / 3,
   },
   carFeature: {
     color: "white",
